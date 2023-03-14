@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6d8c6ca0","path":"/notes/vue/","title":"VUE","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"VUE","description":"页面的描述","sidebarDepth":3},"headers":[],"git":{},"filePathRelative":"notes/vue/README.md"}');export{e as data};

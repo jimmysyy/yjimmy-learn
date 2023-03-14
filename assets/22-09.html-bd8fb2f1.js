@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-61df0509","path":"/life/diary/22-09.html","title":"22-09","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"22-09","description":"九月记"},"headers":[{"level":3,"title":"","slug":"","link":"#","children":[]}],"git":{},"filePathRelative":"life/diary/22-09.md"}');export{e as data};

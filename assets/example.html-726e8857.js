@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7bfb0d68","path":"/notes/nodejs/example.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[{"level":3,"title":"整理成绩案例","slug":"整理成绩案例","link":"#整理成绩案例","children":[]},{"level":3,"title":"时钟案例","slug":"时钟案例","link":"#时钟案例","children":[]}],"git":{},"filePathRelative":"notes/nodejs/example.md"}');export{e as data};
